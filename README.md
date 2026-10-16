@@ -20,6 +20,8 @@ Punktiq is a mobile-first study companion prototype that turns short, verified l
 
 The initial product context is KdG Applied Computer Science. Punktiq is an independent student project and is not affiliated with or endorsed by Karel de Grote University of Applied Sciences and Arts.
 
+> **Commercial inquiries:** Interested in a related learning-product prototype or collaboration? [Discuss the scope](COMMERCIAL.md). The complete Punktiq application remains private; this showcase is not a production service.
+
 ## Why Punktiq
 
 Study tools often separate content, practice, motivation, and peer context into different systems. That makes it easy to read passively, lose track of progress, or chase a streak without proving that anything was learned.
