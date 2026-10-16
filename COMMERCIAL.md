@@ -13,4 +13,4 @@ This is a **public showcase of an interactive prototype**. The full Punktiq appl
 
 Email [the developer](mailto:scubi.dubi.do2410@gmail.com?subject=Punktiq%20collaboration%20inquiry) with your audience, problem, platform, desired outcome and timeline. Do not send student records, credentials or other personal information with the initial inquiry.
 
-Punktiq is an independent project, not an endorsed KdG product. Repository license permissions apply to code in this showcase; this page does not grant access to the private application's source or promise a production service.
+Punktiq is an independent project, not an endorsed KdG product. **Licensing review needed:** the showcase currently contains both an MIT `LICENSE` file and a proprietary `LICENSE.md` / `NOTICE.md`. These are inconsistent. This commercial page does not resolve or amend either notice, and no permission to access the private application's source is granted.
